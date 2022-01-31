@@ -1,0 +1,57 @@
+h1 , input,section{
+    margin-bottom: 30px;
+}
+
+
+h1{
+    text-align: center;
+    
+}
+
+
+input{
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+.container{
+    padding: 10%;
+}
+
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.result{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    gap : 20px
+}
+
+.result h2{
+   
+    font-size: 100px;
+    
+}
+
+.word{
+    
+    display: inline-block;
+}
+
+/* .recent{
+    background-color: bisque;
+    height: 200px;
+    border: 1px solid ;
+} */
+
+
+/* .upper-container{
+    
+} */ 
